@@ -60,7 +60,7 @@ The aim of this projects basically is to have insights about your personal finan
  </ol>
  
  <div>
- <h2> To see the short videom, click the link below: </h2>
+ <h2> To see the short video, click the link below: </h2>
  <p>
    <a href="https://user-images.githubusercontent.com/110297297/193320169-f36166e6-f814-43aa-b33a-1ec092c0f3e6.mp4"> Personal Finance Demo </a> 
   </p>
